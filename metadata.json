@@ -1,0 +1,6 @@
+{
+  "name": "UrbanMart BI Analytics Dashboard",
+  "description": "Interactive Business Intelligence dashboard for analyzing the UrbanMart Excel dataset across exploration, revenue trends, customer retention, delivery performance, and returns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
